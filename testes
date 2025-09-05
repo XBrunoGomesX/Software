@@ -1,0 +1,14 @@
+# Título do Projeto
+
+## Introdução
+Explique aqui o objetivo do projeto.
+
+## Funcionalidades
+- Item 1
+- Item 2
+- Item 3
+
+## Instalação
+```bash
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
